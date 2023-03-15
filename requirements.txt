@@ -14,7 +14,6 @@ cfgrib
 netcdf4
 xeofs
 numba
-geocat
 cmocean
 cmcrameri
 cmaps

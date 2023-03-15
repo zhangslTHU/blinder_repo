@@ -1,3 +1,4 @@
+python>=3.8
 numpy>=1.14.5
 matplotlib>=3.6.3
 seaborn>=0.11.0
@@ -12,8 +13,9 @@ geopandas
 h5netcdf
 cfgrib
 netcdf4
-xeof
+xeofs
 numba
 geocat
 cmocean
 cmcrameri
+cmaps

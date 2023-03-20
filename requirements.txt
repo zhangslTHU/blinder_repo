@@ -9,7 +9,6 @@ metpy
 scipy
 sympy
 pyproj
-geopandas
 h5netcdf
 cfgrib
 netcdf4
